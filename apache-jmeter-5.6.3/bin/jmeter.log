@@ -1,0 +1,63 @@
+2024-08-12 12:42:09,811 INFO o.a.j.u.JMeterUtils: Setting Locale to en_IN
+2024-08-12 12:42:09,827 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2024-08-12 12:42:09,827 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2024-08-12 12:42:09,827 INFO o.a.j.JMeter: Copyright (c) 1998-2024 The Apache Software Foundation
+2024-08-12 12:42:09,827 INFO o.a.j.JMeter: Version 5.6.3
+2024-08-12 12:42:09,827 INFO o.a.j.JMeter: java.version=1.8.0_401
+2024-08-12 12:42:09,827 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2024-08-12 12:42:09,827 INFO o.a.j.JMeter: os.name=Windows 11
+2024-08-12 12:42:09,827 INFO o.a.j.JMeter: os.arch=amd64
+2024-08-12 12:42:09,827 INFO o.a.j.JMeter: os.version=10.0
+2024-08-12 12:42:09,827 INFO o.a.j.JMeter: file.encoding=Cp1252
+2024-08-12 12:42:09,827 INFO o.a.j.JMeter: java.awt.headless=null
+2024-08-12 12:42:09,827 INFO o.a.j.JMeter: Max memory     =3754426368
+2024-08-12 12:42:09,827 INFO o.a.j.JMeter: Available Processors =12
+2024-08-12 12:42:09,842 INFO o.a.j.JMeter: Default Locale=English (India)
+2024-08-12 12:42:09,842 INFO o.a.j.JMeter: JMeter  Locale=English (India)
+2024-08-12 12:42:09,842 INFO o.a.j.JMeter: JMeterHome=C:\Users\Nagendra V Gowda\OneDrive\Desktop\Software Testing - learning\Jmeter\apache-jmeter-5.6.3\apache-jmeter-5.6.3
+2024-08-12 12:42:09,842 INFO o.a.j.JMeter: user.dir  =C:\Users\Nagendra V Gowda\OneDrive\Desktop\Software Testing - learning\Jmeter\apache-jmeter-5.6.3\apache-jmeter-5.6.3\bin
+2024-08-12 12:42:09,842 INFO o.a.j.JMeter: PWD       =C:\Users\Nagendra V Gowda\OneDrive\Desktop\Software Testing - learning\Jmeter\apache-jmeter-5.6.3\apache-jmeter-5.6.3\bin
+2024-08-12 12:42:09,858 INFO o.a.j.JMeter: IP: 192.168.1.35 Name: NAGENDRA FullName: 192.168.1.35
+2024-08-12 12:42:09,858 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2024-08-12 12:42:10,015 INFO o.a.j.JMeterGuiLauncher: Setting LAF to: laf:com.sun.java.swing.plaf.windows.WindowsLookAndFeel
+2024-08-12 12:42:20,194 INFO o.a.j.g.a.t.TemplateManager: Reading templates from: C:\Users\Nagendra V Gowda\OneDrive\Desktop\Software Testing - learning\Jmeter\apache-jmeter-5.6.3\apache-jmeter-5.6.3\bin\templates\templates.xml
+2024-08-12 12:42:55,776 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2024-08-12 12:42:55,776 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2024-08-12 12:42:55,776 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2024-08-12 12:42:55,776 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2024-08-12 12:42:55,776 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2024-08-12 12:42:55,776 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2024-08-12 12:44:17,373 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2024-08-12 12:44:17,373 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to UTF-8
+2024-08-12 12:44:17,373 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2024-08-12 12:44:17,373 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2024-08-12 12:44:35,943 INFO o.a.j.s.FileServer: Default base='C:\Users\Nagendra V Gowda\OneDrive\Desktop\Software Testing - learning\Jmeter\apache-jmeter-5.6.3\apache-jmeter-5.6.3\bin'
+2024-08-12 12:44:35,943 INFO o.a.j.s.FileServer: Set new base='C:\Users\Nagendra V Gowda\OneDrive\Desktop\Software Testing - learning\Jmeter\apache-jmeter-5.6.3\apache-jmeter-5.6.3\bin'
+2024-08-12 12:44:36,093 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2024-08-12 12:44:36,110 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2024-08-12 12:44:36,115 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2024-08-12 12:44:42,769 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2024-08-12 12:44:42,769 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2024-08-12 12:44:42,769 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2024-08-12 12:44:42,769 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2024-08-12 12:44:42,769 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2024-08-12 12:44:42,988 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2024-08-12 12:44:43,035 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Demo Test
+2024-08-12 12:44:43,035 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Demo Test.
+2024-08-12 12:44:43,035 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2024-08-12 12:44:43,035 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 delayedStart=false
+2024-08-12 12:44:43,035 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2024-08-12 12:44:43,035 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2024-08-12 12:44:43,035 INFO o.a.j.t.JMeterThread: Thread started: Demo Test 1-1
+2024-08-12 12:44:43,051 INFO o.a.j.p.h.s.HTTPHCAbstractImpl: Local host = NAGENDRA
+2024-08-12 12:44:43,068 INFO o.a.j.p.h.s.HTTPHC4Impl: HTTP request retry count = 0
+2024-08-12 12:44:43,146 INFO o.a.j.p.h.s.h.LazyLayeredConnectionSocketFactory: Setting up HTTPS TrustAll Socket Factory
+2024-08-12 12:44:43,146 INFO o.a.j.u.JsseSSLManager: Using default SSL protocol: TLS
+2024-08-12 12:44:43,146 INFO o.a.j.u.JsseSSLManager: SSL session context: per-thread
+2024-08-12 12:44:43,381 INFO o.a.j.u.SSLManager: JmeterKeyStore Location:  type JKS
+2024-08-12 12:44:43,381 INFO o.a.j.u.SSLManager: KeyStore created OK
+2024-08-12 12:44:43,381 WARN o.a.j.u.SSLManager: Keystore file not found, loading empty keystore
+2024-08-12 12:44:44,173 INFO o.a.j.t.JMeterThread: Thread is done: Demo Test 1-1
+2024-08-12 12:44:44,173 INFO o.a.j.t.JMeterThread: Thread finished: Demo Test 1-1
+2024-08-12 12:44:44,173 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2024-08-12 12:44:44,173 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
